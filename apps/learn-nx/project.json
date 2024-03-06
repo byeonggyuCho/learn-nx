@@ -1,0 +1,8 @@
+{
+  "name": "learn-nx",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/learn-nx",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
